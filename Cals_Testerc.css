@@ -1,0 +1,25 @@
+
+
+<head>
+
+  <style>
+
+    h1{
+      font-family:cursive;
+    }
+
+    body{
+      color:#0099ff;
+      text-align:center;
+      background: url("http://pcm.my-magazine.me/main/upload/wallpaper_resources/5187a26f0a8ab/5efcef118c3ff4a49b390beb2893b1f8bf205ce4.jpg");
+    }
+
+    input[type#"email"]{
+      padding=5px
+    }
+
+    h6{
+    color: cyan;
+    }
+
+  </style>
