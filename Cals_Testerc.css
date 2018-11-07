@@ -6,11 +6,11 @@
 
   header{
     font-family: Harrington;
-    font-size: 50px; color: #339;
+    font-size: 50px; color: #337;
     text-align:center;
     background: rgba(255,255,255,0.5);
     img{
-      width: 400px;
+      width: 200px;
     }
   }
 
